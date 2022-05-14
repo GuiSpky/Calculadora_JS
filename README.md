@@ -56,6 +56,7 @@ Codigo de calculadora utilizando JS HTML e CSS
 </html>
 
 //css
+
 *{margin: 0; padding: 0;}
 .fundo{background-color: #f2f2f2;
 	height: 100vw;
@@ -121,6 +122,8 @@ p,h1{color: white;}
 }
 
 //JavaScript
+
+
 function insert(num) {
 	
 	var numero = document.getElementById('resultado').innerHTML;
